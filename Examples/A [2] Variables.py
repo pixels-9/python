@@ -1,4 +1,4 @@
-# variable = container for a value
+# variable = container for a value.
 
 # Strings
 firstName = "John"
