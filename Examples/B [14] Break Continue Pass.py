@@ -1,8 +1,8 @@
-# Loop Control Statements: Break, Continue, Pass
+# loop control statements: Break, Continue, Pass
 
-# Break: Terminates the loop
-# Continue: Skips the current iteration of the loop
-# Pass: Does nothing
+# break: Terminates the loop
+# continue: Skips the current iteration of the loop
+# pass: Does nothing
 
 while True:
     name = input("What is your name? ")
