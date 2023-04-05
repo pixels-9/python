@@ -2,7 +2,7 @@
 #           indexing[] or slice()
 #           [start:stop:step] 
 
-name = "Jack Booth"
+name = "John Doe"
 
 firstName = name[:4]       # [0:3]
 lastName = name[5:]        # [4:end]
