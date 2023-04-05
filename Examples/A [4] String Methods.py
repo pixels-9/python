@@ -1,4 +1,4 @@
-# String methods are methods that can be applied to strings to produce different outcomes.
+# string methods = methods that can be applied to strings to produce different outcomes.
 
 name = "John Doe"
 

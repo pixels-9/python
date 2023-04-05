@@ -1,4 +1,4 @@
-# Multiple assignment allows us to set multiple variables with one line of code.
+# multiple assignment = setting multiple variables with one line of code.
 
 name, age, attractive = "John", 21, True
 

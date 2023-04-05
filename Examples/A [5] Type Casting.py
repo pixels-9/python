@@ -1,4 +1,4 @@
-# Type Casting is converting the data type of a value to another data value.
+# type casting = converting the data type of a value to another data value.
 
 x = 5
 y = 25.0
