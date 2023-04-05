@@ -1,4 +1,4 @@
-# slicing = create a substring by extracting elements from another string via indexing[] or slice(). [start:stop:step]
+# slicing = create a substring by extracting elements from another string via indexing[start:stop:step] or slice()
 
 name = "John Doe"
 
