@@ -1,4 +1,4 @@
-# Logical operators (and, or, not) = used to check two or more conditional statements
+# logical operators (and, or, not) = used to check two or more conditional statements
 
 temp = int(input("What is the temperature outside?: "))
 

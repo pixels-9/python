@@ -1,3 +1,5 @@
+# math module = a module that contains a set of functions that allows you to perform mathematical tasks on numbers.
+
 import math
  
 pi = math.pi
