@@ -1,8 +1,8 @@
 # Variable = container for a value. Behaves as the value.
 
 # Strings
-firstName = "Jack"
-lastName = "Booth"
+firstName = "John"
+lastName = "Doe"
 fullName = firstName + " " + lastName
 
 print(firstName)

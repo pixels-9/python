@@ -1,6 +1,6 @@
 # String methods are methods that can be applied to strings to produce different outcomes.
 
-name = "Jack"
+name = "John Doe"
 
 print(len(name))
 print(name.find("o"))
