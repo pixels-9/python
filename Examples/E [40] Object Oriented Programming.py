@@ -1,4 +1,4 @@
-# Object Oriented Programming = Programming using objects (classes)
+# object oriented programming = Programming using objects (classes)
 
 import testcar
 

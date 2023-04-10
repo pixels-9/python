@@ -1,4 +1,4 @@
-# A 20 question quiz
+# A 20 question quiz where you have 3 attempts for each question.
 
 questions = {"Who was the first president of the United States?": "George Washington.",
             "What year was the Battle of Hastings?": "1066.",
